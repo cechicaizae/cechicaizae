@@ -19,4 +19,4 @@ Herramientas: Microsoft Office
 Email: kriss_1313@hotmail.com
 Phone: +593-995717175
 
-<h3 align="center"> 🌟 Let's Connect 🌟 </h3> <p align="center"> <a target="_blank" href="https://www.linkedin.com/in/cechicaizae/"> <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a> <a target="_blank" href="[https://github.com/ChristianChicaiza](https://github.com/cechicaizae)"> <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a> </p>
+<h3 align="center"> 🌟 Let's Connect 🌟 </h3> <p align="center"> <a target="_blank" href="https://www.linkedin.com/in/cechicaizae/"> <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a> <a target="_blank" href="https://github.com/cechicaizae"> <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a> </p>
