@@ -25,7 +25,4 @@ Development with technologies like Linux, ASP.NET MVC, and SQL Server.
   <a target="_blank" href="https://www.linkedin.com/in/cechicaizae/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>  
-  <a target="_blank" href="https://github.com/cechicaizae">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-  </a>  
 </p>
